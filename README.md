@@ -1,6 +1,6 @@
 # NLW #8 | DoctorCare | Next Level Week
 
-# Em Construção
+## Em Construção
 
 ## Screenshots
 
@@ -10,7 +10,7 @@
 
 - HTML
 - CSS
-- JS
+
 
 ### Layout
 
